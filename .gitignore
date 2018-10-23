@@ -1,0 +1,7 @@
+~*
+*~
+obj/
+bin/ConduiteAlgorithmique_debug
+bin/ConduiteAlgorithmique
+bin/libfmodex.so
+*.qbs.user

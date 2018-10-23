@@ -1,0 +1,11 @@
+{
+    "audio_path": "/home/nuc/Documents/dataStore/AUDIO/full_audio/",
+    "video_path": "/home/nuc/Documents/dataStore/VIDEO/hap/",
+    "db_path": "/home/nuc/Documents/dataStore/database.h5",
+
+    "monitor_index": 1,
+    "audio_device_id": 7,
+    "windowed":false,
+    "dev_mode":false,
+    "overlay":false
+}
